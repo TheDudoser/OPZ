@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/OPZ_lib.h
+vector
+-
+
+/cygdrive/c/MyPrograms/OPZ/main.cpp
+iostream
+-
+vector
+-
+OPZ_lib.h
+/cygdrive/c/MyPrograms/OPZ/OPZ_lib.h
+cstring
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/tests.dir/tests.cpp.o CMakeFiles/tests.dir/src/OPZ_lib.cpp.o  -o tests.exe -Wl,--out-implib,libtests.dll.a -Wl,--major-image-version,0,--minor-image-version,0  lib/libgtestd.a 
