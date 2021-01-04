@@ -1,5 +1,5 @@
 # OPZ
 
-Перед проверкой прошу прописать: git clone https://github.com/google/googletestp
+Перед проверкой прошу прописать: git clone https://github.com/google/googletest
 
 P.S. Если задать функции main аргумент "dude", программу можно будет запустить без сообщений по типу "Введите выражение:" :D
